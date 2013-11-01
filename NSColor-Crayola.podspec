@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "NSColor-Crayola"
-  s.version      = "0.1"
+  s.version      = "0.2"
   s.summary      = "Crayola colors NSColor category"
 
   s.description  = <<-DESC
