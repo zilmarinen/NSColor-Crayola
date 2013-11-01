@@ -31,7 +31,7 @@ $header_file_meta .= "//\n";
 $header_file_meta .= "//*******\n";
 $header_file_meta .= "//\n";
 $header_file_meta .= "\n";
-$header_file_meta .= "#import <UIKit/UIKit.h>\n";
+$header_file_meta .= "#import <AppKit/AppKit.h>\n";
 $header_file_meta .= "\n";
 $header_file_meta .= "@interface NSColor (Crayola)\n\n";
 
