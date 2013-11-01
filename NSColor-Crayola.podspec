@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.author       = { "Zack Brown" => "zack@zackbrown.co.uk" }
 
-  s.platform     = :ios, '5.0'
+  s.platform     = :osx, '10.6'
 
   s.source       = { :git => "https://github.com/CaptainRedmuff/NSColor-Crayola.git", :tag => "#{s.version}" }
 
