@@ -3,7 +3,7 @@
 //
 //	filename: NSColor+Crayola.h
 //	author: Zack Brown
-//	date: 1/11/2013
+//	date: 07/11/2013
 //
 //*******
 //
